@@ -37,7 +37,7 @@ cd ../contracts
 npm link hardhat-testbeacon
 ```
 ## File Structure
-
+```
 contracts/
 ├── contracts/             # Solidity files
 ├── test/                  # Auto-generated test files
